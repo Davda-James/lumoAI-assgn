@@ -32,4 +32,30 @@ uvicorn src.main:app --port 8080 --reload
 
 ### Make sure first hit /token with username and password to get the token and then use that token to hit other endpoints.
 
-Note: Have done all tasks including optional and bonus one.
+Proof of all endpoints working:
+#### Create employee 
+<img src="./public/create-emp.jpg" alt="Endpoints" border="0">
+
+#### Get employee
+<img src="./public/get-emp.jpg" alt="Endpoints" border="0">
+
+#### Update employee 
+<img src="./public/update-emp.jpg" alt="Endpoints" border="0">
+
+#### Delete employee
+<img src="./public/delete-emp.jpg" alt="Endpoints" border="0">
+
+#### Get by department
+<img src="./public/get-by-department.jpg" alt="Endpoints" border="0">
+
+#### Get avg salary
+<img src="./public/get-avg-salary.jpg" alt="Endpoints" border="0">
+
+#### Get by skills
+<img src="./public/get-by-skills.jpg" alt="Endpoints" border="0">
+
+#### Pagination on employees
+<img src="./public/pagination-emp.jpg" alt="Endpoints" border="0">
+
+
+### Note: Have done all tasks including optional and bonus one.
