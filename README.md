@@ -28,6 +28,8 @@ uvicorn src.main:app --port 8080 --reload
 ### You can test the endpoints using curl or Postman (Have sended invite to the email of hr that was on mail)
 [Postman Workspace](https://llumoai-assignment.postman.co/workspace/learn~fc1c5322-b2e0-4a40-8de6-bf66270aa779/collection/36779485-4fb642be-d699-4376-bcf5-ff7e0d55e553?action=share&creator=36779485)
 
+<img src="./public/postman-img.jpg" alt="Postman" border="0">
+
 ### Make sure first hit /token with username and password to get the token and then use that token to hit other endpoints.
 
 Note: Have done all tasks including optional and bonus one.
